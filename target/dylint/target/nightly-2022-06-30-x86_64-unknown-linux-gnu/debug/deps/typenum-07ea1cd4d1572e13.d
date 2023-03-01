@@ -1,0 +1,18 @@
+/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/deps/typenum-07ea1cd4d1572e13.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/op.rs /data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/consts.rs
+
+/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/deps/typenum-07ea1cd4d1572e13.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/op.rs /data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/consts.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs:
+/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/op.rs:
+/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/data/flipper/target/dylint/target/nightly-2022-06-30-x86_64-unknown-linux-gnu/debug/build/typenum-0d2e2c985f32377f/out/op.rs
